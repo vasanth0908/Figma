@@ -31,6 +31,7 @@ Publish the website in the given URL.
 
 ## DESIGN TOOL:
 Figma
+```
 /* Home Page */
 position: relative;
 width: 360px;
@@ -125,7 +126,7 @@ position: absolute;
 width: 98px;
 height: 111px;
 left: 131px;top: 99px;background: url(logo.jpg);
-
+```
 ## OUTPUT:
 ![Screenshot 2023-11-21 102244](https://github.com/vasanth0908/Figma/assets/122000018/d1ea2fd3-2e6d-40fb-9bb1-c9983ca11786)
 ![Screenshot 2023-11-21 102258](https://github.com/vasanth0908/Figma/assets/122000018/586c26bb-ed7b-4afe-b0b0-74634e3ec1e3)
